@@ -32,11 +32,11 @@ Proyek ini bertujuan untuk menerapkan konsep-konsep dasar pengembangan aplikasi 
 
 ```
 bookheaven/
-├── assets/              # File CSS, JS, dan vendor dari SB Admin 2
-├── pages/               # Halaman-halaman konten (tambah buku, daftar buku, dll)
-├── includes/            # Header, sidebar, footer, dan koneksi database
-├── config/              # Konfigurasi database (jika dipisah)
-├── index.php            # Halaman dashboard utama
-└── ...                  # File pendukung lainnya
+├── ccs/
+├── js/
+├── img/          
+├── pages/               
+├── index.php           
+└── ...                  
 ```
 
